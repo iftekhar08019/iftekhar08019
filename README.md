@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning **DevOps & Cloud Computing**
 - 🚀 Passionate about **Web Development & Software Engineering**
 - 👯 I’m looking to collaborate on **Open Source Projects & Startups**
-- 💬 Ask me about **JavaScript, React, DevOps, and Cloud Computing**
+- 💬 Ask me about **JavaScript, React, flutter, DevOps, and Cloud Computing**
 - ⚡ Fun fact: **I love solving problems and learning new tech!**
 
 ---
