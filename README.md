@@ -1,3 +1,5 @@
+![Banner](github_banner.png)
+
 # Hi 👋, I'm Iftekhar
 
 - 🌱 I'm currently learning **DevOps & Cloud Computing**
