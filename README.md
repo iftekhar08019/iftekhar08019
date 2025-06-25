@@ -2,11 +2,12 @@
 
 # Hi 👋, I'm Iftekhar
 
-- 🌱 I'm currently learning **DevOps & Cloud Computing**
+- 🌱 I'm currently learning **PostgreSQL, AI API, and React Redux**
 - 🚀 Passionate about **Web Development & Software Engineering**
 - 👯 I’m looking to collaborate on **Open Source Projects & Startups**
-- 💬 Ask me about **JavaScript, React, Flutter, DevOps, and Cloud Computing**
+- 💬 Ask me about **JavaScript, React, Redux**
 - ⚡ Fun fact: **I love solving problems and learning new tech!**
+
 
 ---
 
