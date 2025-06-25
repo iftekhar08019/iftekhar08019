@@ -5,8 +5,9 @@
 - 🌱 I'm currently learning **PostgreSQL, AI API, and React Redux**
 - 🚀 Passionate about **Web Development & Software Engineering**
 - 👯 I’m looking to collaborate on **Open Source Projects & Startups**
-- 💬 Ask me about **JavaScript, React, Redux**
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
 - ⚡ Fun fact: **I love solving problems and learning new tech!**
+- 🌱 Future interests include learning **Flutter, DevOps, and Cloud Computing**
 
 
 ---
