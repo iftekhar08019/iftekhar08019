@@ -1,6 +1,6 @@
 ![Banner](github_banner.png)
 
-## 👨‍💻 About Me
+## Hi 👋, I'm Iftekhar
 
 🎯 **Junior Web Developer** | **Medical Engineering Graduate**  
 📍 Based in Erlangen, Germany  
@@ -12,15 +12,6 @@
 🔍 Always learning — currently diving into PostgreSQL, AI APIs & Redux  
 🤝 Open to collaborating on Open Source & Startup Projects  
 ⚡ Fun Fact: From **VR Rehab Systems** to **IoT Smart Homes** — I love creating tech that makes a difference!
-# Hi 👋, I'm Iftekhar
-
-- 🌱 I'm currently learning **PostgreSQL, AI API, and React Redux**
-- 🚀 Passionate about **Web Development & Software Engineering**
-- 👯 I’m looking to collaborate on **Open Source Projects & Startups**
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
-- ⚡ Fun fact: **I love solving problems and learning new tech!**
-- 🌱 Future interests include learning **Flutter, DevOps, and Cloud Computing**
-
 
 ---
 
