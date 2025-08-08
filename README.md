@@ -2,22 +2,16 @@
 
 ## 👨‍💻 About Me
 
-I’m **Md Iftekharul Alam**, a Junior Web Developer and Medical Engineering graduate based in Erlangen, Germany.  
-With a unique blend of **engineering precision** and **creative problem-solving**, I specialize in building responsive, user-friendly, and scalable applications.  
+🎯 **Junior Web Developer** | **Medical Engineering Graduate**  
+📍 Based in Erlangen, Germany  
 
-💡 **What I bring to the table:**  
-- Hands-on experience in **Full-Stack Development** (React, Node.js, Express.js, MongoDB)  
-- Strong background in **UI/UX design** with tools like Figma, Photoshop, and Illustrator  
-- Proven ability to **deliver functional, high-performance apps** — from IoT solutions to VR-based rehabilitation systems  
+💡 **Tech Stack:** React • Node.js • Express.js • MongoDB • TailwindCSS  
+🎨 Passion for clean UI & smooth UX  
+🚀 Love building scalable, high-performance apps  
 
-🚀 I’m passionate about:  
-- Crafting modern web applications with **clean code and great design**  
-- Collaborating on **open-source projects** and innovative startups  
-- Exploring **emerging tech** like AI APIs, Cloud Computing, and Flutter  
-
-🌟 **Fun Fact:**  
-I’ve worked on projects ranging from **voice-controlled smart homes** to **virtual reality rehabilitation systems**, and I’m always ready to learn the next big thing!
-
+🔍 Always learning — currently diving into PostgreSQL, AI APIs & Redux  
+🤝 Open to collaborating on Open Source & Startup Projects  
+⚡ Fun Fact: From **VR Rehab Systems** to **IoT Smart Homes** — I love creating tech that makes a difference!
 # Hi 👋, I'm Iftekhar
 
 - 🌱 I'm currently learning **PostgreSQL, AI API, and React Redux**
