@@ -2,7 +2,7 @@
 
 ## Hi 👋, I'm Iftekhar
 
-🎯 **Junior Web Developer** | **Medical Engineering Graduate**  
+🎯 **Web Developer** | **Medical Engineering Graduate**  
 📍 Based in Erlangen, Germany  
 
 💡 **Tech Stack:** React • Node.js • Express.js • MongoDB • TailwindCSS  
