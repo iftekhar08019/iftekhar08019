@@ -18,7 +18,7 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iftekhar08019&show_icons=true&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iftekhar08019&theme=dark)
+![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com/?user=iftekhar08019&theme=dark](https://github-readme-streak-stats.herokuapp.com/))
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iftekhar08019&layout=compact&theme=dark)
 
