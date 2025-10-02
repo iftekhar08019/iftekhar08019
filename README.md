@@ -9,7 +9,7 @@
 🎨 Passion for clean UI & smooth UX  
 🚀 Love building scalable, high-performance apps  
 
-🔍 Always learning — currently diving into PostgreSQL, AI APIs & Redux  
+🔍 Always learning — currently diving into RDBS
 🤝 Open to collaborating on Open Source & Startup Projects  
 ⚡ Fun Fact: From **VR Rehab Systems** to **IoT Smart Homes** — I love creating tech that makes a difference!
 
