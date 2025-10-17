@@ -5,7 +5,7 @@
 🎯 **Web Developer** | **Medical Engineering Graduate**  
 📍 Based in Erlangen, Germany  
 
-💡 **Tech Stack:** React • Node.js • Express.js • MongoDB • TailwindCSS  
+💡 **Tech Stack:** React • Next.js • Node.js • Express.js • MongoDB • TailwindCSS  
 🎨 Passion for clean UI & smooth UX  
 🚀 Love building scalable, high-performance apps  
 
